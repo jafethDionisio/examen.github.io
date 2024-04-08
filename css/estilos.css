@@ -1,0 +1,17 @@
+header{
+    background-color:rgb(96, 39, 150);
+}
+.carousel-item img{
+    width: auto;
+    max-height: 400px;
+    margin: 0 auto;
+}
+.celulares{
+    text-align: justify;
+    line-height: 2em;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    float: right;
+}
